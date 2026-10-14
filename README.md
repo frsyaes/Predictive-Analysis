@@ -34,7 +34,3 @@ Developed as part of the **MDA3083 Predictive Analysis** coursework (Group 5).
 * **Total Transactions:** 3,900
 * **Average Order Value (AOV):** $59.76
 * **Average Review Rating:** 3.75 / 5.0
-
----
-
-👥 **Group 5 Members:** Farah, Dayana, Syuhadah, Syafiqah, Farisya
